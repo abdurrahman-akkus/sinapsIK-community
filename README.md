@@ -1,2 +1,2 @@
-# sinaps-sinapsIK
-Sinaps'ın web servis katmanı.
+# sinapsIK
+SinapsCV-community's web service.
